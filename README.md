@@ -2,7 +2,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-0078D4?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Trabalhando-brightorange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Concluído-brightorange?style=for-the-badge)
 
 **[Explore o Dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiNjkxN2E4YTMtMjEyNy00NTMxLWFhMTEtMWM4ZDRhZjAwZWI2IiwidCI6ImY0NmY3ZGY2LTMwZDgtNDg0MS1iZDk0LTU2NzAxNDMwODZiOCJ9)**
 
